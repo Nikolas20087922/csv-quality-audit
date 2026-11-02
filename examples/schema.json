@@ -1,0 +1,1 @@
+{"columns":{"id":{"type":"integer","required":true,"unique":true},"amount":{"type":"number","required":true,"min":0},"date":{"type":"date","required":true},"status":{"enum":["paid","pending"],"required":true}}}

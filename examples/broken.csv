@@ -1,0 +1,4 @@
+id,amount,date,status
+1,19.99,2026-10-01,paid
+1,-5,2026-02-30,unknown
+3,NaN,2026-10-02,
